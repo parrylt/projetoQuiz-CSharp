@@ -1,0 +1,84 @@
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\bin\Debug\projetoQuiz.exe.config
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\bin\Debug\projetoQuiz.exe
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\bin\Debug\projetoQuiz.pdb
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Properties.Resources.resources
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.csproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.exe
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.pdb
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Dados.resources
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que1.resources
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que2.resources
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que3.resources
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que4.resources
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que10.resources
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que5.resources
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que6.resources
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que7.resources
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que8.resources
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que9.resources
+C:\Users\Alunos\Desktop\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.resultados.resources
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\bin\Debug\projetoQuiz.exe.config
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\bin\Debug\projetoQuiz.exe
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\bin\Debug\projetoQuiz.pdb
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.csproj.AssemblyReference.cache
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Dados.resources
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Properties.Resources.resources
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que1.resources
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que10.resources
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que2.resources
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que3.resources
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que4.resources
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que5.resources
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que6.resources
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que7.resources
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que8.resources
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que9.resources
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.resultados.resources
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.csproj.GenerateResource.cache
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.csproj.CoreCompileInputs.cache
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.exe
+C:\Users\marin\Downloads\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.pdb
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\bin\Debug\projetoQuiz.exe.config
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\bin\Debug\projetoQuiz.exe
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\bin\Debug\projetoQuiz.pdb
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.csproj.AssemblyReference.cache
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Dados.resources
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Properties.Resources.resources
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que1.resources
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que10.resources
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que2.resources
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que3.resources
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que4.resources
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que5.resources
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que6.resources
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que7.resources
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que8.resources
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que9.resources
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.resultados.resources
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.csproj.GenerateResource.cache
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.csproj.CoreCompileInputs.cache
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.exe
+C:\Users\marin\OneDrive\Área de Trabalho\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.pdb
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\bin\Debug\projetoQuiz.exe.config
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\bin\Debug\projetoQuiz.exe
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\bin\Debug\projetoQuiz.pdb
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.csproj.AssemblyReference.cache
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Form1.resources
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Properties.Resources.resources
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que1.resources
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que10.resources
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que2.resources
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que3.resources
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que4.resources
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que5.resources
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que6.resources
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que7.resources
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que8.resources
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.Que9.resources
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.resultados.resources
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.csproj.GenerateResource.cache
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.csproj.CoreCompileInputs.cache
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.exe
+C:\Users\marin\OneDrive\Área de Trabalho\DS1 - Marlene\projetoQuiz\projetoQuiz\obj\Debug\projetoQuiz.pdb
