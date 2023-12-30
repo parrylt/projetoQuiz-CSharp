@@ -1,5 +1,5 @@
 # projetoQuiz-CSharp
-um quiz feito com winforms lá no visual studio. 10 perguntas fáceis só para treinar o código
+um quiz feito com winforms lá no visual studio. 10 perguntas fáceis só para treinar o código. Atividade de DS na Etec de Guarulhos.
 <br>
 <div align="center">
   <h3>Página Inicial do quiz</h3>
